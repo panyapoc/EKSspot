@@ -6,5 +6,7 @@
 
 ## Workshop Guide
 
-https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks/010_prerequisites/workspace.html
+🔗[**Click Here**](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks/010_prerequisites/workspace.html)
+
+
 
